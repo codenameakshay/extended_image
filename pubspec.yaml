@@ -3,6 +3,7 @@ description: Official extension image, support placeholder(loading)/ failed stat
 version: 1.0.0
 author: zmtzawqlp <zmtzawqlp@live.com>
 homepage: https://github.com/fluttercandies/extended_image
+publish_to: none
 
 environment:
   sdk: ">=2.6.0 <3.0.0"
